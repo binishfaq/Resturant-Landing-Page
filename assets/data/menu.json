@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Garlic Bread",
+    "description": "Crispy baguette topped with garlic butter and herbs.",
+    "price": 4.99,
+    "category": "starters",
+    "image": "./assets/images/garlic-bread.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bruschetta",
+    "description": "Toasted bread with fresh tomatoes, basil, and balsamic glaze.",
+    "price": 6.99,
+    "category": "starters",
+    "image": "./assets/images/bruschetta.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stuffed Mushrooms",
+    "description": "Mushrooms filled with cream cheese, spinach, and parmesan.",
+    "price": 7.99,
+    "category": "starters",
+    "image": "./assets/images/stuffed-mushrooms.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+    "price": 12.99,
+    "category": "mains",
+    "image": "./assets/images/margherita.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Grilled Salmon",
+    "description": "Salmon fillet with lemon butter sauce and seasonal vegetables.",
+    "price": 18.99,
+    "category": "mains",
+    "image": "./assets/images/salmon.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ribeye Steak",
+    "description": "Juicy ribeye steak served with mashed potatoes and gravy.",
+    "price": 24.99,
+    "category": "mains",
+    "image": "./assets/images/steak.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Alfredo",
+    "description": "Fettuccine pasta with creamy alfredo sauce and grilled chicken.",
+    "price": 14.99,
+    "category": "mains",
+    "image": "./assets/images/alfredo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tiramisu",
+    "description": "Classic Italian dessert with mascarpone and espresso.",
+    "price": 6.99,
+    "category": "desserts",
+    "image": "./assets/images/tiramisu.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey center, served with vanilla ice cream.",
+    "price": 7.99,
+    "category": "desserts",
+    "image": "./assets/images/lava-cake.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cheesecake",
+    "description": "Creamy New York style cheesecake with berry compote.",
+    "price": 6.99,
+    "category": "desserts",
+    "image": "./assets/images/cheesecake.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mojito",
+    "description": "Fresh mint, lime, and rum.",
+    "price": 5.99,
+    "category": "drinks",
+    "image": "./assets/images/mojito.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Margarita",
+    "description": "Classic cocktail with tequila, lime, and triple sec.",
+    "price": 6.99,
+    "category": "drinks",
+    "image": "./assets/images/margarita.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Soft Drinks",
+    "description": "Choice of Coke, Sprite, Fanta, or Diet Coke.",
+    "price": 2.49,
+    "category": "drinks",
+    "image": "./assets/images/soft-drinks.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "Classic delight with fresh basil, mozzarella, and tangy tomato sauce.",
+    "price": "$12.99",
+    "image": "./assets/images/margherita.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Truffle Mushroom Pasta",
+    "description": "Creamy fettuccine tossed with wild mushrooms and a hint of truffle oil.",
+    "price": "$15.99",
+    "image": "./assets/images/pasta.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Grilled Salmon",
+    "description": "Perfectly grilled salmon fillet served with lemon butter sauce and seasonal veggies.",
+    "price": "$18.99",
+    "image": "./assets/images/salmon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Classic Cheeseburger",
+    "description": "Angus beef patty, cheddar cheese, lettuce, tomato, and our signature sauce.",
+    "price": "$10.99",
+    "image": "./assets/images/burger.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce, parmesan cheese, croutons, and creamy Caesar dressing.",
+    "price": "$8.99",
+    "image": "./assets/images/caesar.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey center, served with vanilla ice cream.",
+    "price": "$6.99",
+    "image": "./assets/images/lava-cake.jpg"
+  }
+]
