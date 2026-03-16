@@ -29,14 +29,6 @@ menu display, popular dishes, gallery, and a reservation system.
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
-
-Savoria-Restaurant/ │ ├── index.html ├── style.css │ ├── assets/ │ ├──
-images/ │ │ ├── hero.jpg │ │ ├── about.jpg │ │ ├── gallery1.jpg │ │ └──
-... │ │ │ └── data/ │ ├── dishes.json │ └── menu.json │ └── README.md
-
-------------------------------------------------------------------------
-
 # 📸 Sections Included
 
 ## 🏠 Home
@@ -82,8 +74,7 @@ Table booking form where users can enter:
 
 1.  Clone the repository
 
-git clone https://github.com/yourusername/savoria-restaurant.git
-
+git clone https://github.com/binishfaq/Resturant-Landing-Page.git
 2.  Open the project folder
 
 3.  Run the project by opening:
